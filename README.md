@@ -20,7 +20,7 @@
 ### Design Tools:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
  #💡Future idea project
- Where you find me,
+ #Where you find me,
  🌟 ![GitHub followers](https://img.shields.io/github/followers/cyber640?label=Followers&style=social)  
 👀 ![Profile views](https://komarev.com/ghpvc/?username=cyber640&color=blue&style=flat-square)  
 📧 Email:  [sebrinam394@gmail.com](sebrinam394@gmail.com)
