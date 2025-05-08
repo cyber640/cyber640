@@ -32,7 +32,7 @@
 - **Threat intelligence module:** Collects attack data and patterns for defense enhancements
 - **Adaptive threat response system:** Uses behavioral analytics to predict and counter attacks
 ### 🎯 Penetration Testing Simulation 
-## 🏆 Gamified Training Mode
+#### 🏆 Gamified Training Mode
 Contains:
 - **Real-world attack scenarios:** SQL injection, XSS, privilege escalation,
 - **Step-by-step attack simulations:** Learn offensive security tactics responsibly
