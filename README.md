@@ -19,3 +19,23 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### Design Tools:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+ #💡Future idea project
+ Where you find me,
+ 🌟 ![GitHub followers](https://img.shields.io/github/followers/cyber640?label=Followers&style=social)  
+👀 ![Profile views](https://komarev.com/ghpvc/?username=cyber640&color=blue&style=flat-square)  
+📧 Email:  [sebrinam394@gmail.com](sebrinam394@gmail.com)
+ 
+   ### 🔐 High-Defensive Mode
+   Includes:
+- **Multi-layered security architecture:** Firewalls, IDS/IPS, AI-driven monitoring
+- **Threat intelligence module:** Collects attack data and patterns for defense enhancements
+- **Adaptive threat response system:** Uses behavioral analytics to predict and counter attacks
+### 🎯 Penetration Testing Simulation 
+### 🏆 Gamified Training Mode
+Contains:
+- **Real-world attack scenarios:** SQL injection, XSS, privilege escalation,
+- **Step-by-step attack simulations:** Learn offensive security tactics responsibly
+- 
+
+ 
+ 
