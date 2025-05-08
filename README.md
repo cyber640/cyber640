@@ -19,13 +19,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### Design Tools:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
- #💡Future idea project
 
 # Where you find me,
  
 📧 Email:  [sebrinam394@gmail.com](sebrinam394@gmail.com)
+
+#💡 Future idea project
  
-   ### 🔐 High-Defensive Mode
+  ### 🔐 High-Defensive Mode
    Includes:
 - **Multi-layered security architecture:** Firewalls, IDS/IPS, AI-driven monitoring
 - **Threat intelligence module:** Collects attack data and patterns for defense enhancements
