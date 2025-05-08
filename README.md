@@ -1,4 +1,4 @@
--#👋 Hi, I’m Sebrina
+# 👋 Hi, I’m Sebrina
 - ## 🌟 About Me
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Ethical Hacking
@@ -16,5 +16,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### Design Tools:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
