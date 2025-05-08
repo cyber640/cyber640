@@ -20,9 +20,9 @@
 ### Design Tools:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
  #💡Future idea project
- #Where you find me,
- 🌟 ![GitHub followers](https://img.shields.io/github/followers/cyber640?label=Followers&style=social)  
-👀 ![Profile views](https://komarev.com/ghpvc/?username=cyber640&color=blue&style=flat-square)  
+
+# Where you find me,
+ 
 📧 Email:  [sebrinam394@gmail.com](sebrinam394@gmail.com)
  
    ### 🔐 High-Defensive Mode
@@ -35,7 +35,7 @@
 Contains:
 - **Real-world attack scenarios:** SQL injection, XSS, privilege escalation,
 - **Step-by-step attack simulations:** Learn offensive security tactics responsibly
-- 
+  
 
  
  
