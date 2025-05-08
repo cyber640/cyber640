@@ -1,4 +1,4 @@
--## 👋 Hi, I’m Sebrina
+-#👋 Hi, I’m Sebrina
 - ## 🌟 About Me
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Ethical Hacking
