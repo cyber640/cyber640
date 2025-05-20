@@ -45,5 +45,9 @@ Contains:
 <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your.svg" width="150"/>
 <img src="https://media.giphy.com/media/26BRq7t0p5bK3Lwdy/giphy.gif" width="200"/>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding+and+open+source!" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cyber640&theme=react-dark)
 
 
