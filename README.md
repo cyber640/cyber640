@@ -39,8 +39,7 @@ Contains:
   
   ![cyber640's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber640&show_icons=true)
   ![GitHub followers](https://img.shields.io/github/followers/cyber640?label=Followers)
-![Profile views](https://komarev.com/ghpvc/?username=cyber640)
-![Alt Text](https://link-to-your-image.com/image.png)
-
- 
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber640&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyber640)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber640&layout=compact) 
+![Contribution Snake](https://github.com/cyber640/cyber640/blob/output/github-contribution-grid-snake.svg) 
