@@ -36,15 +36,5 @@
 Contains:
 - **Real-world attack scenarios:** SQL injection, XSS, privilege escalation,
 - **Step-by-step attack simulations:** Learn offensive security tactics responsibly
-  
-  ![cyber640's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber640&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs html /?username=cyber640&layout=compact) 
-                                              ![GitHub followers](https://img.shields.io/github/followers/cyber640?style=social)
-![Stars](https://img.shields.io/github/stars/cyber640/cyber640?color=yellow)
-
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your.svg" width="150"/>
-<img src="https://media.giphy.com/media/26BRq7t0p5bK3Lwdy/giphy.gif" width="200"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding+and+open+source!" />
-
-
+ 
 
