@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-circle&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-circle&logo=kalilinux&logoColor=white)
   ### Cybersecurity Platforms:
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=red)
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9Fef00?style=flat-square&logo=hackthebox&logoColor=black)
 ### Development Tools:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
