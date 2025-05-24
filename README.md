@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Sebrina<br>- ## 🌟 About Me<br>- 👀 I’m interested in Cyber security<br>- 🌱 I’m currently learning Ethical Hacking<br>- 💻 I love working on open-source projects.<br>-  💞️ I’m looking to collaborate on different projects that enhances digital awareness and also safety.<br>- ⚡ Fun fact: I am a person who is sociable and confident and at the same time deep thinker.<br>💬 Ask me about Cyber security I am here to help<br>
+ 👋 Hi, I’m Sebrina<br>- 🌟 About Me<br>- 👀 I’m interested in Cyber security<br>- 🌱 I’m currently learning Ethical Hacking<br>- 💻 I love working on open-source projects.<br>-  💞️ I’m looking to collaborate on different projects that enhances digital awareness and also safety.<br>- ⚡ Fun fact: I am a person who is sociable and confident and at the same time deep thinker.<br>💬 Ask me about Cyber security I am here to help<br>
 
 
 
@@ -37,6 +37,31 @@
 Contains:
 - Real-world attack scenarios: SQL injection, XSS, privilege escalation,
 - Step-by-step attack simulations: Learn offensive security tactics responsibly
+
+  ![Header Image](https://your-image-link.com/header.png)
+ <img src="https://github.com/cyber640.png" width="120"/>
+![Visitors](https://komarev.com/ghpvc/?username=cyber640)
+
+<img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/username/repo/main/animation.svg"/>
+<!-- Header Image -->
+![Header](https://your-image-link.com/header.png)
+
+<!-- Avatar -->
+<p align="center">
+  <img src="https://github.com/cyber640.png" width="120"/>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  ![Visitors](https://komarev.com/ghpvc/?username=cyber640)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber640&show_icons=true)
+</p>
+
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
+</p>
  
 
 # 📊 GitHub Stats:
