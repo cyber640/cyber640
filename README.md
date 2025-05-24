@@ -2,10 +2,10 @@
 ## 👋 Hi, I’m Sebrina<br>
 
 👀 I’m interested in Cyber security<br> 🌱 I’m currently learning Ethical Hacking<br>💻 I love working on open-source projects.<br> 💞️ I’m looking to collaborate on different projects that enhances digital awareness and also safety.<br> ⚡ Fun fact: I am a person who is sociable and confident and at the same time deep thinker. 
-#### <br>🛡️ I love exploring ethical hacking and digital forensics.
-#### <br>📚 Always learning about network security and malware analysis.
-  #### <br>💬 Ask me about Cyber security I am here to help
- ####   <br> *🕵️‍♂️ Exploring the world of cybersecurity, one byte at a time!*
+#### 🛡️ I love exploring ethical hacking and digital forensics.
+#### 📚 Always learning about network security and malware analysis.
+  #### 💬 Ask me about Cyber security I am here to help
+ ####   *🕵️‍♂️ Exploring the world of cybersecurity, one byte at a time!*
   
 
  ## 🛠 Skills and Tools
