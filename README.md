@@ -42,7 +42,7 @@ Contains:
 
 
 
-     # 📊 GitHub Stats:
+          # 📊 GitHub Stats:
    ![](https://github-readme-stats.vercel.app/api?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
    ![](https://nirzak-streak-stats.vercel.app/?user=cyber640&theme=neon&hide_border=false)<br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -50,12 +50,4 @@ Contains:
 ---
   [![](https://visitcount.itsvg.in/api?id=cyber640&icon=0&color=0)](https://visitcount.itsvg.in)
  
- <p align="center">
-  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=600&q=80" alt="Hacker illustration" width="300"/>
-</p>
 
-<p align="center">
-  <b>Aspiring cybersecurity learner</b>
-</p>
-
-<!-- P![Aspiring Cybersecurity learner](assets/hacker-banner.png)roudly created with GPRM ( https://gprm.itsvg.in ) -->
