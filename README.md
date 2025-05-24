@@ -50,5 +50,4 @@ Contains:
 ---
   [![](https://visitcount.itsvg.in/api?id=cyber640&icon=0&color=0)](https://visitcount.itsvg.in)
  ![Aspiring cyber security learner](aspiring-cyber-security-learner.png)
-<img src="Cyber.png" alt="Cyber security" width="300" height="200">
-
+<img src="C:/Users/Sebrina/Pictures/cyber.png" alt="Cyber Image">
