@@ -38,31 +38,11 @@ Contains:
 - Real-world attack scenarios: SQL injection, XSS, privilege escalation,
 - Step-by-step attack simulations: Learn offensive security tactics responsibly
 
-  ![Header Image](https://your-image-link.com/header.png)
- <img src="https://github.com/cyber640.png" width="120"/>
-![Visitors](https://komarev.com/ghpvc/?username=cyber640)
+ ![Badge](https://img.shields.io/badge/example-interactive-brightgreen)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber640)
 
-<img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
-<img src="https://raw.githubusercontent.com/username/repo/main/animation.svg"/>
-<!-- Header Image -->
-![Header](https://your-image-link.com/header.png)
-
-<!-- Avatar -->
-<p align="center">
-  <img src="https://github.com/cyber640.png" width="120"/>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=cyber640)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber640&show_icons=true)
-</p>
-
-<!-- Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
-</p>
- 
+[View my interactive chart](https://observablehq.com/@your-username/your-notebook)
+ <iframe src="https://your-interactive-graphic.com"></iframe>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
