@@ -49,5 +49,10 @@ Contains:
 
 ---
   [![](https://visitcount.itsvg.in/api?id=cyber640&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+  ![Aspiring Cybersecurity learner](assets/hacker-banner.png)
+  <p align="center">
+  <img src="assets/hacker-banner.png" alt="Aspiring Cybersecurity learner" width="600"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- P![Aspiring Cybersecurity learner](assets/hacker-banner.png)roudly created with GPRM ( https://gprm.itsvg.in ) -->
