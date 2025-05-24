@@ -1,9 +1,10 @@
 # 💫 About Me:
- 👋 Hi, I’m Sebrina<br>- 🌟 About Me<br>- 👀 I’m interested in Cyber security<br>- 🌱 I’m currently learning Ethical Hacking<br>- 💻 I love working on open-source projects.<br>-  💞️ I’m looking to collaborate on different projects that enhances digital awareness and also safety.<br>- ⚡ Fun fact: I am a person who is sociable and confident and at the same time deep thinker.<br>💬 Ask me about Cyber security I am here to help<br>
+ 👋 Hi, I’m Sebrina<br>- 🌟 About Me<br>- 👀 I’m interested in Cyber security<br>- 🌱 I’m currently learning Ethical Hacking<br>- 💻 I love working on open-source projects.<br>-  💞️ I’m looking to collaborate on different projects that enhances digital awareness and also safety.<br>- ⚡ Fun fact: I am a person who is sociable and confident and at the same time deep thinker. 🛡️ I love exploring ethical hacking and digital forensics.
+  - 📚 Always learning about network security and malware analysis.<br>💬 Ask me about Cyber security I am here to help<br>
 
 
-
-
+> **🕵️‍♂️ Exploring the world of cybersecurity, one byte at a time!**
+![Cybersecurity](https://img.shields.io/badge/Aspiring-Cybersecurity%20Learner-blueviolet?style=for-the-badge&logo=hackthebox)
 
 
  ## 🛠 Skills and Tools
@@ -38,11 +39,7 @@ Contains:
 - Real-world attack scenarios: SQL injection, XSS, privilege escalation,
 - Step-by-step attack simulations: Learn offensive security tactics responsibly
 
- ![Badge](https://img.shields.io/badge/example-interactive-brightgreen)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber640)
 
-[View my interactive chart](https://observablehq.com/@your-username/your-notebook)
- <iframe src="https://your-interactive-graphic.com"></iframe>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
