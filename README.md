@@ -46,8 +46,9 @@ Contains:
    ![](https://github-readme-stats.vercel.app/api?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
    ![](https://nirzak-streak-stats.vercel.app/?user=cyber640&theme=neon&hide_border=false)<br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber640&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="618" alt="Cyber" src="https://github.com/user-attachments/assets/bbef3ba8-60c3-4adc-af76-bfd127230b06" />
 
 ---
   [![](https://visitcount.itsvg.in/api?id=cyber640&icon=0&color=0)](https://visitcount.itsvg.in)
-           <img width="618" alt="Cyber" src="https://github.com/user-attachments/assets/bbef3ba8-60c3-4adc-af76-bfd127230b06" />
+          
 
